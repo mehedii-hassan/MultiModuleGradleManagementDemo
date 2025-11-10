@@ -18,3 +18,4 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
+include(":conventions")
