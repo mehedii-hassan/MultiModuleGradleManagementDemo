@@ -18,8 +18,3 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-
-includeBuild("build-logic")
-rootProject.name = "MultiModuleGradleManagementDemo"
-include(":app")
-include(":login")
